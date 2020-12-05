@@ -83,8 +83,6 @@ class Day04Test {
 
         val answer = Day04().solvePart2(inputs)
 
-        println("Answer is $answer")
-
         assert(answer == 179)
     }
 }
