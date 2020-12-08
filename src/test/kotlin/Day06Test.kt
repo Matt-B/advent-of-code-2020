@@ -74,6 +74,6 @@ class Day06Test {
 
         val answer = Day06().solvePart2(inputs)
 
-        println("Answer is $answer")
+        assert(answer == 3466)
     }
 }

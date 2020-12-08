@@ -13,3 +13,5 @@ Day 5 - [Binary Boarding](https://adventofcode.com/2020/day/5) - [Code](https://
 Day 6 - [Custom Customs](https://adventofcode.com/2020/day/6) - [Code](https://github.com/Matt-B/advent-of-code-2020/blob/main/src/main/kotlin/uk/co/matt_bailey/adventofcode2020/Day06.kt)
 
 Day 7 - [Handy Haversacks](https://adventofcode.com/2020/day/7) - [Code](https://github.com/Matt-B/advent-of-code-2020/blob/main/src/main/kotlin/uk/co/matt_bailey/adventofcode2020/Day07.kt)
+
+Day 8 - [Handheld Halting](https://adventofcode.com/2020/day/8) - [Code](https://github.com/Matt-B/advent-of-code-2020/blob/main/src/main/kotlin/uk/co/matt_bailey/adventofcode2020/Day08.kt)
