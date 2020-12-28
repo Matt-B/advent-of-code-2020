@@ -25,3 +25,5 @@ Day 11 - [Seating System](https://adventofcode.com/2020/day/11) - [Code](https:/
 Day 12 - [Rain Risk](https://adventofcode.com/2020/day/12) - [Code](https://github.com/Matt-B/advent-of-code-2020/blob/main/src/main/kotlin/uk/co/matt_bailey/adventofcode2020/Day12.kt)
 
 Day 13 - [Shuttle Search](https://adventofcode.com/2020/day/13) - [Code](https://github.com/Matt-B/advent-of-code-2020/blob/main/src/main/kotlin/uk/co/matt_bailey/adventofcode2020/Day13.kt)
+
+Day 14 - [Docking Data](https://adventofcode.com/2020/day/14) - [Code](https://github.com/Matt-B/advent-of-code-2020/blob/main/src/main/kotlin/uk/co/matt_bailey/adventofcode2020/Day14.kt)

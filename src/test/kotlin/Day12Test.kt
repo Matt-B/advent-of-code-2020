@@ -18,8 +18,6 @@ class Day12Test {
 
         val answer = Day12().solvePart1(inputs)
 
-        println("Answer is $answer")
-
         assert(answer == 25)
     }
 
@@ -46,8 +44,6 @@ class Day12Test {
 
         val answer = Day12().solvePart2(inputs)
 
-        println("Answer is $answer")
-
         assert(answer == 286)
     }
 
@@ -58,6 +54,6 @@ class Day12Test {
 
         val answer = Day12().solvePart2(inputs)
 
-        println("Answer is $answer")
+        assert(answer == 145117)
     }
 }
